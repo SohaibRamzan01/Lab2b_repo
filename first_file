@@ -1,2 +1,9 @@
 Console.WriteLine("My name is Muhammad Sohaib Ramzan.");
 Console.WriteLine("My roll number is 24-ST-004");
+Console.WriteLine("Mathematics");
+Console.WriteLine("Physics");
+Console.WriteLine("Urdu");
+Console.WriteLine("English");
+Console.WriteLine("Computer");
+Console.WriteLine("Islamiyat");
+Console.WriteLine("Pakistan Studies");
