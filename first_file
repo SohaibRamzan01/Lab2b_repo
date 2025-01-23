@@ -1,2 +1,7 @@
 Console.WriteLine("My name is Muhammad Sohaib Ramzan.");
 Console.WriteLine("My roll number is 24-ST-004");
+Console.WriteLine("SDLC");
+Console.WriteLine("English");
+Console.WriteLine("Statistics");
+Console.WriteLine("Al Quran");
+Console.WriteLine("Descrete Structures");
